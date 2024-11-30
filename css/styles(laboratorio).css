@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #cacfd2;
 }
 
 header {
@@ -27,7 +27,7 @@ nav a:hover {
 }
 
 section {
-    background-color:#cacfd2;
+    background-color: white;
     padding: 20px;
     margin: 20px 0;
     border-radius: 8px;
